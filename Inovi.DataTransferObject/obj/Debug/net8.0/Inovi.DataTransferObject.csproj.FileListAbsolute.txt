@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Inovi\Inovi.DataTransferObject\bin\Debug\net8.0\Inovi.DataTransferObject.deps.json
+C:\Users\user\source\repos\Inovi\Inovi.DataTransferObject\bin\Debug\net8.0\Inovi.DataTransferObject.dll
+C:\Users\user\source\repos\Inovi\Inovi.DataTransferObject\bin\Debug\net8.0\Inovi.DataTransferObject.pdb
+C:\Users\user\source\repos\Inovi\Inovi.DataTransferObject\obj\Debug\net8.0\Inovi.DataTransferObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Inovi\Inovi.DataTransferObject\obj\Debug\net8.0\Inovi.DataTransferObject.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Inovi\Inovi.DataTransferObject\obj\Debug\net8.0\Inovi.DataTransferObject.AssemblyInfo.cs
+C:\Users\user\source\repos\Inovi\Inovi.DataTransferObject\obj\Debug\net8.0\Inovi.DataTransferObject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Inovi\Inovi.DataTransferObject\obj\Debug\net8.0\Inovi.DataTransferObject.dll
+C:\Users\user\source\repos\Inovi\Inovi.DataTransferObject\obj\Debug\net8.0\refint\Inovi.DataTransferObject.dll
+C:\Users\user\source\repos\Inovi\Inovi.DataTransferObject\obj\Debug\net8.0\Inovi.DataTransferObject.pdb
+C:\Users\user\source\repos\Inovi\Inovi.DataTransferObject\obj\Debug\net8.0\ref\Inovi.DataTransferObject.dll

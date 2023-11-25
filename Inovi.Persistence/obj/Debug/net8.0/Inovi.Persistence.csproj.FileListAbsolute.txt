@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Inovi\Inovi.Persistence\bin\Debug\net8.0\Inovi.Persistence.deps.json
+C:\Users\user\source\repos\Inovi\Inovi.Persistence\bin\Debug\net8.0\Inovi.Persistence.dll
+C:\Users\user\source\repos\Inovi\Inovi.Persistence\bin\Debug\net8.0\Inovi.Persistence.pdb
+C:\Users\user\source\repos\Inovi\Inovi.Persistence\obj\Debug\net8.0\Inovi.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Inovi\Inovi.Persistence\obj\Debug\net8.0\Inovi.Persistence.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Inovi\Inovi.Persistence\obj\Debug\net8.0\Inovi.Persistence.AssemblyInfo.cs
+C:\Users\user\source\repos\Inovi\Inovi.Persistence\obj\Debug\net8.0\Inovi.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Inovi\Inovi.Persistence\obj\Debug\net8.0\Inovi.Persistence.dll
+C:\Users\user\source\repos\Inovi\Inovi.Persistence\obj\Debug\net8.0\refint\Inovi.Persistence.dll
+C:\Users\user\source\repos\Inovi\Inovi.Persistence\obj\Debug\net8.0\Inovi.Persistence.pdb
+C:\Users\user\source\repos\Inovi\Inovi.Persistence\obj\Debug\net8.0\ref\Inovi.Persistence.dll

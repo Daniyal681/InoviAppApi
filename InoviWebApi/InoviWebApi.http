@@ -1,0 +1,6 @@
+@InoviWebApi_HostAddress = http://localhost:5294
+
+GET {{InoviWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
